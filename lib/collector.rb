@@ -1,4 +1,4 @@
-
+# Day-1
 class Collector
 
   attr_reader :buckets, :size, :up_to

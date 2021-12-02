@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Day-1
 class Incrementer
   attr_reader :increments, :previous
